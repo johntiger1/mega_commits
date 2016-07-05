@@ -13,3 +13,6 @@ For some reason, supressing the script is sometimes not enough--instead you need
 SO much time spent on mundane fixing things to get it to work just right on your platform/system
 
 Go to 51 or 23 for maximum irreverence 
+
+Lastly: cool info
+http://githut.info/

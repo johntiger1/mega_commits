@@ -7,7 +7,7 @@ do
 	#interstingly in C it would be the executable but in python 
 	#we can just use the python executable
 	#one add on is to have it commit the file itself
-	quone.py
+	python ./quone.py
 	git add quone.py
 	git commit -m "commit #x"
 	git push origin master

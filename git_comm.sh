@@ -15,5 +15,10 @@ do
 	git push origin master &> /dev/null
 	iters=`expr $iters + 1`
 	echo "$iters" > ./commit_number
+
+	#next steps--update WHENEVER push is sent, no matter what!
+	#right now, there still has the potential to be out of date
+	#perhaps, we can fix it using a github API call--via curl to get the
+	#commit number first
 done
 
